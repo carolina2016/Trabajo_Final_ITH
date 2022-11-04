@@ -1,0 +1,25 @@
+.titulo-seccion-cotizacion h2{
+    margin: 2rem 0;
+}
+#input-nombre{
+    margin-top: 1rem;
+    margin-bottom: 2rem;
+}
+#parrafo-especial-cotizacion{
+    margin: 3rem 0;
+}
+#texbox-cotizaciones label{
+    margin-left: 1rem;
+}
+
+.formulario-cotizacion button{
+    margin: 3rem 0;
+    background-color: #c00;
+    border-color: #c00;
+}
+
+.formulario-cotizacion button:hover{
+    background-color: #c00;
+    border-color: #c00;
+    opacity: 0.7;
+}
